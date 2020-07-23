@@ -1,0 +1,258 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin: 0;
+}
+
+body{
+    background-color: #73c259;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* 
+section{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+} */
+/* section form {
+    padding: 20px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* body{
+    background-color: #73c259;
+    font-family: 'Poppins', sans-serif;
+}
+
+section article{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+section article form{
+    background-color: #fff;
+    padding: 40px;
+    height: 350px;
+    width: 400px;
+    box-shadow: 1px 1px 1px 1px #1111;
+}
+
+label{
+    display: block;
+}
+
+button{
+    background-color: #00b241;
+    color: #fff;
+    padding: 15px;
+    display: block;
+    width: 100%;
+    border: none;
+    text-transform: uppercase;
+}
+
+input{
+    padding: 10px;
+    margin: 15px 0 ;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 3px;
+    background-color: #eee;
+    border: none;
+}
+
+.footer{
+    margin: 47px;
+    font-size: small;
+    text-align: center;
+    margin-top: 20px;
+}
+.footer .h6{
+
+    font-size: small;
+    
+}
+.create{
+    color:  #00b241;
+    text-transform: capitalize;
+    
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* div{
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+} */
+
+
+
+
+
+
+
+
+
+
+/*------section{
+    display: flex;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+}
+-----*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*----------cutom css button-------
+.btn-sucess{
+    background-color: rgb(195, 230, 195);
+    color: rgb(167, 3, 3);
+    border:1px sloid crimson;
+}
+.btn-sucess:hover{
+    background-color: crimson;
+    border: 1px solid crimson;
+}
+--------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*----------deepshikha css framwork----
+.container{
+    width: 1200px;
+    margin:0 auto;
+}
+
+.h1{
+    font-size:70px;
+    color: crimson;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.btn{
+    border-radius: 2px;
+    padding: 10px 20px;
+}
+.btn-sucess{
+    background-color: green;
+    border:1px solid green;
+    color: #fff;
+
+}
+
+.btn-danger{
+    background-color: greenyellow;
+    color: #fff;
+    border:1px solid red;
+  
+}
+
+---------*/
