@@ -8,7 +8,49 @@ body{
     background-color: #73c259;
     font-family: 'Poppins', sans-serif;
 }
+table{
+    width: 1200px;
+    margin: 40px auto;
+}
 
+table,tr,th{
+   
+    padding: 10px;
+    border: 1px solid #eee;
+    background-color: #fff;
+}
+
+td{
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
 form{
     padding: 20px;
 
@@ -16,7 +58,7 @@ form{
 
 input{
     margin: 10px;
-}
+} */
 
 
 
